@@ -5,8 +5,6 @@ Experimental cryptography lab for analyzing and reconstructing Shamir Secret Sha
 ```markdown
 # 🔐 Shamir Cracker Lab
 
-Experimental cryptography lab for analyzing and reconstructing Shamir Secret Sharing shares, deriving BIP-39 seeds, and testing Bitcoin addresses
-
 ## 🧠 Functions
 
 - Shamir Share Metadata Analysis
