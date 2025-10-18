@@ -16,23 +16,21 @@ Experimental cryptography lab for analyzing and reconstructing Shamir Secret Sha
 
 ## 🗂️ Project Structure
 
-```
 shamir_lab/
 ├── core/
-│   ├── analyzer.py         # share analysis
-│   ├── brute_force.py      # brute-force engine + heuristics
-│   ├── generator.py        # generating test shares
-│   └── utils.py            # auxiliary functions (e.g. dictionaries)
+│   ├── analyzer.py         
+│   ├── brute_force.py      
+│   ├── generator.py        
+│   └── utils.py            
 ├── gui/
-│   └── app.py              # graphical interface (tkinter)
+│   └── app.py              
 ├── wordlists/
-│   ├── bip39_english.txt   # BIP-39 word list
-│   └── custom.txt          # your own dictionary
+│   ├── bip39_english.txt   
+│   └── custom.txt          
 ├── examples/
-│   └── sample_share.txt    # sample share
-├── main.py                 # CLI entry point
-└── README.md               # instruction
-```
+│   └── sample_share.txt    
+├── main.py                 
+└── README.md              
 
 
 
