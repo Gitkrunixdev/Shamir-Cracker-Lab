@@ -1,0 +1,27 @@
+{
+  "name": "shamir-cracker-lab",
+  "version": "0.1.0",
+  "description": "Crypto-security and recovery toolkit using Shamir Secret Sharing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "shamir-secret-sharing",
+    "crypto-security",
+    "recovery",
+    "blockchain"
+  ],
+  "author": "Shamir-Cracker-Lab <shamircrackerlab@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "nodemon": "^3.0.0"
+  }
+}
+
