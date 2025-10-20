@@ -6,15 +6,16 @@ Experimental cryptography lab for analyzing and reconstructing Shamir Secret Sha
 
 ###🧠 Functions ###
 
-Shamir Share Metadata Analysis
-Generating Test Shares from a Secret
-Reconstructing the Seed and Deriving a BTC Address
-Brute-Force with a Limited Dictionary
-Share Guessing Heuristics
-Tkinter Graphical User Interface (GUI)
+- Shamir Share Metadata Analysis
+- Generating Test Shares from a Secret
+- Reconstructing the Seed and Deriving a BTC Address
+- Brute-Force with a Limited Dictionary
+- Share Guessing Heuristics
+- Tkinter Graphical User Interface (GUI)
 
 ###🗂️ Project Structure ###
 
+```
 shamir_lab/
 ├── core/
 │   ├── analyzer.py
@@ -31,3 +32,4 @@ shamir_lab/
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
