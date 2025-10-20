@@ -12,6 +12,7 @@ Reconstructing the Seed and Deriving a BTC Address
 Brute-Force with a Limited Dictionary
 Share Guessing Heuristics
 Tkinter Graphical User Interface (GUI)
+
 ###🗂️ Project Structure ###
 
 shamir_lab/
