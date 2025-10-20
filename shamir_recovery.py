@@ -1,1 +1,0 @@
-recover_key(shares)
