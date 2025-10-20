@@ -39,8 +39,4 @@ By making a contribution to this project, I certify that:
    By contributing to this project, you agree to the Developer Certificate of Origin (DCO).
    The full text is available [here](https://developercertificate.org/).
 
-   You must include a `Signed-off-by` line in each commit message, certifying compliance with the DCO.
-
-   Add Shamir recovery module
-
    Signed-off-by: Shamir-Cracker-Lab [shamircrackerlab@gmail.com]
