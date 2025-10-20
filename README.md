@@ -18,18 +18,17 @@ deriving BIP-39 seeds, and testing Bitcoin addresses
 
 shamir_lab/
 ├── core/
-│   ├── analyzer.py         
-│   ├── brute_force.py      
-│   ├── generator.py        
-│   └── utils.py            
+│   ├── analyzer.py
+│   ├── brute_force.py
+│   ├── generator.py
+│   └── utils.py
 ├── gui/
-│   └── app.py              
+│   └── app.py
 ├── wordlists/
-│   ├── bip39_english.txt   
-│   └── custom.txt          
+│   ├── bip39_english.txt
+│   └── custom.txt
 ├── examples/
-│   └── sample_share.txt    
-├── main.py                 
-└── README.md              
-
-
+│   └── sample_share.txt
+├── main.py
+├── README.md
+└── requirements.txt
