@@ -2,6 +2,10 @@
 
 Experimental cryptography lab for analyzing and reconstructing Shamir Secret Sharing shares, deriving BIP-39 seeds, and testing Bitcoin addresses
 
+## ⚠️ Note
+
+This project is for educational purposes only. It is not intended for unauthorized cracking or recovery of resources.
+
 🔐 Shamir-Cracker-Lab
 
 ###🧠 Functions ###
