@@ -19,6 +19,7 @@ This project is for educational purposes only. It is not intended for unauthoriz
 
 ### 🗂️ Project Structure
 
+```
 shamir_lab/
 ├── core/
 │   ├── analyzer.py
@@ -35,3 +36,4 @@ shamir_lab/
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
