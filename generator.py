@@ -9,3 +9,4 @@ master_secret=secret.encode()
 for i, share in enumerate(mnemonics): 
 print(f""Share {i+1}: {' '.join(share)}"") 
 return mnemonics
+
