@@ -1,12 +1,12 @@
-“💚 Support our mission: Back Shamir Cracker Lab”
+### 💚 Support our mission: Back Shamir Cracker Lab
 
 Experimental cryptography lab for analyzing and reconstructing Shamir Secret Sharing shares, 
 deriving BIP-39 seeds, and testing Bitcoin addresses
 
-🔐 Shamir-Cracker-Lab
+### 🔐 Shamir-Cracker-Lab
 
 
-###🧠 Functions ###
+### 🧠 Functions 
 
 - Shamir Share Metadata Analysis
 - Generating Test Shares from a Secret
@@ -16,7 +16,7 @@ deriving BIP-39 seeds, and testing Bitcoin addresses
 - Tkinter Graphical User Interface (GUI)
 
 
-###🗂️ Project Structure ###
+### 🗂️ Project Structure
 
 
 ```
