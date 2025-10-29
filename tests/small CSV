@@ -1,5 +1,5 @@
 def test_happy_path(tmp_path): 
-# Prepare a small CSV 
+
 csv_content = "date,close,symbol\n2025-01-01,10.0,ABC\n2025-01-02,20.0,ABC\n" 
 data_dir = tmp_path / "data" 
 data_dir.mkdir() 
