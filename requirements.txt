@@ -10,6 +10,7 @@ click>=8.1.7
 
 Pillow>=12.0.0
 Pywhatkit>=5.3.0 (Stable)
+
 pytest
 pytest-cov
 flake8
