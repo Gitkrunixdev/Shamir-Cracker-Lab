@@ -19,7 +19,7 @@ This project is for educational purposes only. It is not intended for unauthoriz
 - Share Guessing Heuristics
 - Tkinter Graphical User Interface (GUI)
 
-Fix it step by step Pillow and Pywhatkit:
+Tkinter GUI InterfaceFix it step by step Pillow and Pywhatkit:
 
 ### ✅ Solution # Install dependencies # Quick check
 
