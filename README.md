@@ -19,25 +19,20 @@ This project is for educational purposes only. It is not intended for unauthoriz
 - Share Guessing Heuristics
 - Tkinter Graphical User Interface (GUI)
 
+Fix it step by step:
 
-### 🗂️ Project Structure
+### ✅ Solution
 
+Open your terminal or command prompt.
+Run the following command to install Pillow:
 
-```
-shamir_lab/
-├── core/
-│   ├── analyzer.py
-│   ├── brute_force.py
-│   ├── generator.py
-│   └── utils.py
-├── gui/
-│   └── app.py
-├── wordlists/
-│   ├── bip39_english.txt
-│   └── custom.txt
-├── examples/
-│   └── sample_share.txt
-├── main.py
-├── README.md
-└── requirements.txt
-```
+'''bash
+
+pip install pillow
+python -m pip install pillow
+
+'''Powershell
+import PIL.print(PIL_version__)
+
+'''bash
+python -c "import PIL; print('Pillow version:', PIL.__version__)"
