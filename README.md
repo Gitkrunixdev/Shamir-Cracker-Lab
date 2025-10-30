@@ -48,7 +48,7 @@ pip install pillow pywhatkit
 
 python -c "import PIL, pywhatkit; print('Pillow:', PIL.__version__, '| pywhatkit:', pywhatkit.__version__)"
 
-✅ Correct version check
+### ✅ Correct version check
 
 '''bash
 
