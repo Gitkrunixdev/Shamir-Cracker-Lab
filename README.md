@@ -28,11 +28,13 @@ Run the following command to install Pillow:
 
 '''bash
 
-pip install pillow
+pip install pillow,
 python -m pip install pillow
 
 '''Powershell
+
 import PIL.print(PIL_version__)
 
 '''bash
+
 python -c "import PIL; print('Pillow version:', PIL.__version__)"
