@@ -19,22 +19,42 @@ This project is for educational purposes only. It is not intended for unauthoriz
 - Share Guessing Heuristics
 - Tkinter Graphical User Interface (GUI)
 
-Fix it step by step:
+Fix it step by step Pillow and Pywhatkit:
 
 ### ✅ Solution
 
-Open your terminal or command prompt.
+1\Open your terminal or command prompt.
 Run the following command to install Pillow:
 
 '''bash
 
-pip install pillow,
-python -m pip install pillow
+pip install pillow, python -m pip install pillow
+
+python -c "import PIL; print('Pillow version:', PIL.__version__)"
 
 '''Powershell
 
 import PIL.print(PIL_version__)
 
+2\Run the following command to install Pywhatkit:
+
 '''bash
 
-python -c "import PIL; print('Pillow version:', PIL.__version__)"
+python -m pip install pywhatkit
+python -c "import pywhatkit; print('pywhatkit:', pywhatkit.__version__)"
+
+# Install dependencies
+pip install pillow pywhatkit
+
+# Quick check
+python -c "import PIL, pywhatkit; print('Pillow:', PIL.__version__, '| pywhatkit:', pywhatkit.__version__)"
+
+✅ Correct version check
+
+'''bash
+
+python -c "import PIL, pywhatkit; print('Pillow:', PIL.__version__, '| pywhatkit:', pywhatkit.__VERSION__)"
+
+
+
+
