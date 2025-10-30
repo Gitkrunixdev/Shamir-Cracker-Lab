@@ -21,7 +21,7 @@ This project is for educational purposes only. It is not intended for unauthoriz
 
 Fix it step by step Pillow and Pywhatkit:
 
-### ✅ Solution
+### ✅ Solution # Install dependencies # Quick check
 
 1\Open your terminal or command prompt.
 Run the following command to install Pillow:
@@ -41,12 +41,11 @@ import PIL.print(PIL_version__)
 '''bash
 
 python -m pip install pywhatkit
+
 python -c "import pywhatkit; print('pywhatkit:', pywhatkit.__version__)"
 
-# Install dependencies
 pip install pillow pywhatkit
 
-# Quick check
 python -c "import PIL, pywhatkit; print('Pillow:', PIL.__version__, '| pywhatkit:', pywhatkit.__version__)"
 
 ✅ Correct version check
